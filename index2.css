@@ -2,3 +2,7 @@ body{
     background-color: bisque;
 }
 /* //ankits styling code */
+
+.div{
+    flex-direction: column;
+}
