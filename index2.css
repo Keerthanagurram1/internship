@@ -6,3 +6,8 @@ body{
 .div{
     flex-direction: column;
 }
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
